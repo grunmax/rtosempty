@@ -1,2 +1,2 @@
 # Platform ESP32, Arduino
-A template of RTOS project for Platformio IDE
+A template of FreeRTOS project for Platformio IDE
